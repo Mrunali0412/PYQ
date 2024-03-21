@@ -1,2 +1,3 @@
 # PYQ
-2nd semester Midsem QPs
+2nd semester Midsem Que. Paper
+
